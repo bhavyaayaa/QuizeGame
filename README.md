@@ -1,4 +1,4 @@
-## QuizMaster GunGun
+## QuizMaster 
 
 Welcome to **QuizMaster GunGun** – a fun, GUI-based Python quiz game built with **Tkinter** and powered by **SQLite**!  
 Challenge yourself across 3 levels of difficulty: Easy, Medium, and Hard!
